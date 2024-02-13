@@ -1,0 +1,4 @@
+
+O Git é um software VCS local que permite aos desenvolvedores salvar snapshots de seus projetos ao longo do tempo.
+
+O GitHub é uma plataforma baseada na web que incorpora os recursos de controle de versões do git para que possam ser usados colaborativamente.
